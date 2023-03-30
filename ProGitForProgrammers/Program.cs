@@ -5,6 +5,7 @@ namespace ProGitForProgrammers {
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
             Console.WriteLine("This line was added in VSCode!");
+            Console.WriteLine("Hello!");
         }
     }
 
