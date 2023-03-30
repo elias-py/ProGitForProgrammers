@@ -7,4 +7,8 @@ namespace ProGitForProgrammers {
             Console.WriteLine("This line was added in VSCode!");
         }
     }
+
+    public class Calculator {
+
+    }
 }
